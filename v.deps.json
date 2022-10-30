@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "v/1.0.0": {
+        "dependencies": {
+          "bootstrap": "5.2.2",
+          "jQuery": "3.6.0"
+        },
+        "runtime": {
+          "v.dll": {}
+        }
+      },
+      "bootstrap/5.2.2": {},
+      "jQuery/3.6.0": {}
+    }
+  },
+  "libraries": {
+    "v/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bootstrap/5.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-947NZilDSNJ8V9xUBnwFR22RsyznWzPelKYKVbT7qwDlRR5YunBoO8bSKbLkdfajiSc2LWatBU4fMHrjrF0oeA==",
+      "path": "bootstrap/5.2.2",
+      "hashPath": "bootstrap.5.2.2.nupkg.sha512"
+    },
+    "jQuery/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sSzCTDWn15waSMjDrP21jjgG1j1pwISLaKiVCClwU4XGAmuZt+FScLkdyRvh9ppoIxAW/tJtJBYei+3CAwFQ7g==",
+      "path": "jquery/3.6.0",
+      "hashPath": "jquery.3.6.0.nupkg.sha512"
+    }
+  }
+}
